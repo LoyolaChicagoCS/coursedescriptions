@@ -10,34 +10,32 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
-TextBook information to be updated soon.
+Textbook information will be linked in later.
 
 Section titles lines link to the course description page,
-except for some labeled special topics courses related to an existing course.
+except for special topics courses.  
+Some of those later show a link to a related course description.
 
 The 4-digit number in parentheses after the section is the Locus registration code.
 
 Be sure to look at the section's notes or Locus for an 8-week courses with more than one schedule line:
 Friday line(s) are likely to be isolated makeup days, not every week.
 
-
-You can skip down to
-:ref:`spring_graduate_courses_list_Lake Shore`. 
+You can skip over undergrad courses to :ref:`lakeshorespring_graduate_courses_list`.
 
 **View Campus Specific Courses below :**
 
-:doc:`spring`
 
-:doc:`waterTowerSpring`
-
-:doc:`onlineSpring` 
-
+* :doc:`spring`
+* :doc:`watertowerspring`
+* :doc:`onlinespring`
 
 
-.. _Spring_undergraduate_courses_list:
+
+.. _lakeshorespring_undergraduate_courses_list:
 
 Undergraduate Courses
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
@@ -481,7 +479,7 @@ Undergraduate Courses
 
 
 
-COMP 388 Topic: Adv Topics in Cybersecurity 
+COMP 388 Topic : Adv Topics in Cybersecurity 
     | Section 001 (5988) Credits: 3; In person; Lecture
     | Instructor: David Eric Chan-Tin
     | Cuneo Hall:103 (Lake Shore) Tuesday, Thursday 11:30AM-12:45
@@ -530,7 +528,7 @@ COMP 388 Topic: Adv Topics in Cybersecurity
 
 
 
-.. _Spring_graduate_courses_list_Lake Shore:
+.. _lakeshorespring_graduate_courses_list:
 
 Graduate Courses
 ~~~~~~~~~~~~~~~~~~~~~
@@ -598,7 +596,7 @@ Graduate Courses
 
 
 
-COMP 488 Topic: Adv Topics in Cybersecurity 
+COMP 488 Topic : Adv Topics in Cybersecurity 
     | Section 001 (5996) Credits: 3; In person; Lecture
     | Instructor: David Eric Chan-Tin
     | Cuneo Hall:103 (Lake Shore) Tuesday, Thursday 11:30AM-12:45
@@ -622,7 +620,7 @@ COMP 488 Topic: Adv Topics in Cybersecurity
 
 
 
-COMP 488 Topic: Game Design and Development 
+COMP 488 Topic : Game Design and Development 
     | Section 323 (6014) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
     | Cuneo Hall:311 (Lake Shore) Friday 02:45PM-05:15
@@ -646,7 +644,7 @@ COMP 488 Topic: Game Design and Development
 
 
 
-COMP 488 Topic: Physical Design & Fabrication 
+COMP 488 Topic : Physical Design & Fabrication 
     | Section 369 (5969) Credits: 3; In person; Lecture
     | Instructor: Jonathan Durston
     | Sullivan Center:253 (Lake Shore) Monday 07:00PM-09:30
@@ -666,7 +664,7 @@ COMP 488 Topic: Physical Design & Fabrication
 
 
 
-COMP 488 Topic: Computational Biology 
+COMP 488 Topic : Computational Biology 
     | Section 383 (5997) Credits: 4; In person; Lecture
     | Instructor: Catherine Putonti
     | Crown Center:103 (Lake Shore) Tuesday 04:15PM-07:00

@@ -10,34 +10,32 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
-TextBook information to be updated soon.
+Textbook information will be linked in later.
 
 Section titles lines link to the course description page,
-except for some labeled special topics courses related to an existing course.
+except for special topics courses.  
+Some of those later show a link to a related course description.
 
 The 4-digit number in parentheses after the section is the Locus registration code.
 
 Be sure to look at the section's notes or Locus for an 8-week courses with more than one schedule line:
 Friday line(s) are likely to be isolated makeup days, not every week.
 
-
-You can skip down to
-:ref:`spring_graduate_courses_list_`. 
+You can skip over undergrad courses to :ref:`spring_graduate_courses_list`.
 
 **View Campus Specific Courses below :**
 
-:doc:`lakeShoreSpring`
 
-:doc:`waterTowerSpring`
-
-:doc:`onlineSpring` 
-
+* :doc:`lakeshorespring`
+* :doc:`watertowerspring`
+* :doc:`onlinespring`
 
 
-.. _Spring_undergraduate_courses_list:
+
+.. _spring_undergraduate_courses_list:
 
 Undergraduate Courses
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
@@ -618,7 +616,7 @@ Undergraduate Courses
 
 
 
-COMP 388 Topic: Adv Topics in Cybersecurity 
+COMP 388 Topic : Adv Topics in Cybersecurity 
     | Section 001 (5988) Credits: 3; In person; Lecture
     | Instructor: David Eric Chan-Tin
     | Cuneo Hall:103 (Lake Shore) Tuesday, Thursday 11:30AM-12:45
@@ -694,7 +692,7 @@ COMP 388 Topic: Adv Topics in Cybersecurity
 
 
 
-.. _Spring_graduate_courses_list_:
+.. _spring_graduate_courses_list:
 
 Graduate Courses
 ~~~~~~~~~~~~~~~~~~~~~
@@ -822,7 +820,7 @@ Graduate Courses
 
 
 
-COMP 488 Topic: Adv Topics in Cybersecurity 
+COMP 488 Topic : Adv Topics in Cybersecurity 
     | Section 001 (5996) Credits: 3; In person; Lecture
     | Instructor: David Eric Chan-Tin
     | Cuneo Hall:103 (Lake Shore) Tuesday, Thursday 11:30AM-12:45
@@ -846,7 +844,7 @@ COMP 488 Topic: Adv Topics in Cybersecurity
 
 
 
-COMP 488 Topic: Database Administration 
+COMP 488 Topic : Database Administration 
     | Section 305 (5975) Credits: 3; Blended; Lecture
     | Instructor: Sargon Hasso
     | Corboy Law Center:0301 (Water Tower) Tuesday 04:15PM-06:45
@@ -873,7 +871,7 @@ COMP 488 Topic: Database Administration
 
 
 
-COMP 488 Topic: Game Design and Development 
+COMP 488 Topic : Game Design and Development 
     | Section 323 (6014) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
     | Cuneo Hall:311 (Lake Shore) Friday 02:45PM-05:15
@@ -897,7 +895,7 @@ COMP 488 Topic: Game Design and Development
 
 
 
-COMP 488 Topic: Comp Forensics Investigations 
+COMP 488 Topic : Comp Forensics Investigations 
     | Section 340 (5967) Credits: 3; Online; Lecture
     | Instructor: Thomas Yarrish
     | Online Tuesday 07:00PM-09:30
@@ -918,7 +916,7 @@ COMP 488 Topic: Comp Forensics Investigations
 
 
 
-COMP 488 Topic: Physical Design & Fabrication 
+COMP 488 Topic : Physical Design & Fabrication 
     | Section 369 (5969) Credits: 3; In person; Lecture
     | Instructor: Jonathan Durston
     | Sullivan Center:253 (Lake Shore) Monday 07:00PM-09:30
@@ -938,7 +936,7 @@ COMP 488 Topic: Physical Design & Fabrication
 
 
 
-COMP 488 Topic: Software Quality & Testing 
+COMP 488 Topic : Software Quality & Testing 
     | Section 370 (5971) Credits: 3; In person; Lecture
     | Instructor: Conrad Weisert
     | Corboy Law Center:0602 (Water Tower) Friday 02:45PM-05:15
@@ -961,7 +959,7 @@ COMP 488 Topic: Software Quality & Testing
 
 
 
-COMP 488 Topic: Computational Biology 
+COMP 488 Topic : Computational Biology 
     | Section 383 (5997) Credits: 4; In person; Lecture
     | Instructor: Catherine Putonti
     | Crown Center:103 (Lake Shore) Tuesday 04:15PM-07:00
@@ -986,7 +984,7 @@ COMP 488 Topic: Computational Biology
 
 
 
-COMP 488 Topic: Organizational Change & Dev. 
+COMP 488 Topic : Organizational Change & Dev. 
     | Section 472 (5965) Credits: 3; In person; Lecture
     | Instructor: Guy Bevente
     | Maguire Hall:330 (Water Tower) Tuesday 07:00PM-09:30

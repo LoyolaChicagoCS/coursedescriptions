@@ -1,5 +1,5 @@
 
-Spring 2019 Schedule ( Online Courses )
+Spring 2019 Schedule ( Online )
 ==========================================================================
 Updated 11/01/2018 22:27:01
 
@@ -10,34 +10,32 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
-TextBook information to be updated soon.
+Textbook information will be linked in later.
 
 Section titles lines link to the course description page,
-except for some labeled special topics courses related to an existing course.
+except for special topics courses.  
+Some of those later show a link to a related course description.
 
 The 4-digit number in parentheses after the section is the Locus registration code.
 
 Be sure to look at the section's notes or Locus for an 8-week courses with more than one schedule line:
 Friday line(s) are likely to be isolated makeup days, not every week.
 
-
-You can skip down to
-:ref:`spring_graduate_courses_list_Online`. 
+You can skip over undergrad courses to :ref:`onlinespring_graduate_courses_list`.
 
 **View Campus Specific Courses below :**
 
-:doc:`spring`
 
-:doc:`lakeShoreSpring`
-
-:doc:`waterTowerSpring` 
-
+* :doc:`spring`
+* :doc:`lakeshorespring`
+* :doc:`watertowerspring`
 
 
-.. _Spring_undergraduate_courses_list:
+
+.. _onlinespring_undergraduate_courses_list:
 
 Undergraduate Courses
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
@@ -165,7 +163,7 @@ Undergraduate Courses
 
 
 
-.. _Spring_graduate_courses_list_Online:
+.. _onlinespring_graduate_courses_list:
 
 Graduate Courses
 ~~~~~~~~~~~~~~~~~~~~~
@@ -201,7 +199,7 @@ Graduate Courses
 
 
 
-COMP 488 Topic: Comp Forensics Investigations 
+COMP 488 Topic : Comp Forensics Investigations 
     | Section 340 (5967) Credits: 3; Online; Lecture
     | Instructor: Thomas Yarrish
     | Online Tuesday 07:00PM-09:30
