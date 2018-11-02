@@ -1,7 +1,7 @@
 
 Spring 2019 Schedule ( Online )
 ==========================================================================
-Updated 10/15/2018 15:09:01
+Updated 11/01/2018 22:27:01
 
 The following courses will (tentatively) be held during the Spring 2019 semester.
 
@@ -71,6 +71,15 @@ Undergraduate Courses
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
 
 
+:doc:`comp271` [Term: Eight Week - First]
+    | Section 701N (6561) Credits: 3; Online; Lecture
+    | Instructor: Elliott Lawrence Post
+    | Online Wednesday 06:00PM-09:00
+
+    **Notes:**
+    Restricted to students in the School of Professional Studies.
+
+
 :doc:`comp300` 
     | Section 002 (6002) Credits: 3; Online; Lecture
     | Instructor: Channah Naiman
@@ -82,12 +91,11 @@ Undergraduate Courses
 
 :doc:`comp317` 
     | Section 001 (4086) Credits: 3; Online; Lecture
-    | Instructor: Matthew Paul Butcher
+    | Instructor: Nicoletta Christina Montaner
     | Online Times: TBA
 
     **Notes:**
-    This is an online class.  All lectures will be pre-recorded.  Students are asked to attend smaller-group online interactive discussions at regular intervals
-    during the semester, with possible times chosen to fit different groups' schedules.
+    This is an online class.  More details will be forthcoming.
 
 
 :doc:`comp317` [Term: Eight Week - Second]

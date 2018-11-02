@@ -1,7 +1,7 @@
 
 Spring 2019 Schedule ( Lake Shore Campus )
 ==========================================================================
-Updated 10/15/2018 15:09:01
+Updated 11/01/2018 22:27:01
 
 The following courses will (tentatively) be held during the Spring 2019 semester.
 
@@ -105,6 +105,14 @@ Undergraduate Courses
     **Notes:**
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
     graduate advisor.
+
+
+:doc:`comp150` 
+    | Section 005 (6639) Credits: 3; In person; Lecture
+    | Instructor: Jason E Streeter
+    | Crown Center:105 (Lake Shore) Monday, Wednesday, Friday 10:25AM-11:15
+
+
 
 
 :doc:`comp163` 
@@ -229,21 +237,16 @@ Undergraduate Courses
     | Cuneo Hall:311 (Lake Shore) Friday 11:30AM-12:20 (lab)
 
     **Notes:**
-    This is a hybrid class.  More details will be forthcoming.
-    
-    
-    
-    This course is restricted to students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP 170 should
-    contact the Computer Science Department to request an enrollment override.
-    
-    
-    
-    Students enrolled in COMP 170-005 (Lecture) will be automatically enrolled in COMP 170-05L (Lab).
-    
-    
-    
-    This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
-    graduate advisor.
+    This is an experimental hybrid version of Comp 170, tested very successfully twice before: It starts in the much easier language Python, which is also
+    highly used by professionals. With the central concepts developed simply in that context, it then goes on to transition into Java and add a few concepts not
+    in Python (mostly declarations with static typing), plus Java's more verbose syntax. The Java transition is important since Java is also an important
+    language, preparing you for Comp 271 in Java. The course uses only free open-source online materials, starting with the Python text, where you can read,
+    test, code, answer questions, and check yourself, all in a browser, with little learning curve. The course will be hybrid: after starting in the classroom
+    for a while, many classes will be online in Zoom, and all students will need a notebook computer -- preferably your own. If you want the traditional Java
+    Comp 170 course, register for a different section! This course is restricted to students in the College of Arts and Sciences. Students from other schools
+    specifically wishing to enroll in COMP 170 should contact the Computer Science Department to request an enrollment override. Students enrolled in COMP
+    170-005 (Lecture) will be automatically enrolled in COMP 170-05L (Lab). This course is restricted to undergraduate students. Graduate students wishing to
+    enroll in a section of this course should contact their departmental graduate advisor.
 
 
 :doc:`comp170` [Term: Seven Week - First]
@@ -314,6 +317,10 @@ Undergraduate Courses
     | Mundelein Center:0606 (Lake Shore) Monday, Wednesday, Friday 11:30AM-12:20
 
     **Notes:**
+    This is a blended class.  More details will be forthcoming.
+    
+    
+    
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
     graduate advisor.
 
@@ -414,16 +421,16 @@ Undergraduate Courses
     | Cuneo Hall:311 (Lake Shore) Monday, Wednesday 11:30AM-12:45
 
     **Notes:**
-    COMP 330-001 is a hybrid class.  It meets in person on Mondays and Wednesdays, and is always virtual on Fridays.
+    COMP 330-001 is a hybrid class.  It meets in person on Mondays and online on Wednesdays.
 
 
 :doc:`comp339` 
     | Section 001 (5984) Credits: 3; Blended; Lecture
     | Instructor: George Thiruvathukal
-    | Place TBA (Lake Shore) Monday, Wednesday, Friday 10:25AM-11:15
+    | Mundelein Center:0607 (Lake Shore) Monday, Wednesday, Friday 10:25AM-11:15
 
     **Notes:**
-    This is a blended class.  More details with be forthcoming.
+    COMP 339-001 is a hybrid class.  It meets in person on Mondays and online on Wednesdays and Fridays.
 
 
 :doc:`comp353` 
@@ -447,7 +454,7 @@ Undergraduate Courses
 :doc:`comp369` 
     | Section 001 (5968) Credits: 3; In person; Lecture
     | Instructor: Jonathan Durston
-    | Place TBA (Lake Shore) Monday 07:00PM-09:30
+    | Sullivan Center:253 (Lake Shore) Monday 07:00PM-09:30
 
 
 
@@ -480,6 +487,19 @@ COMP 388 Topic : Adv Topics in Cybersecurity
 
     **Notes:**
     Advanced Topics in Cybersecurity
+    
+    
+    
+    Description:
+    
+    Security and privacy are critical components of any system. This class will discuss the latest in computer security and privacy. Topics will include
+    distributed systems, voting security, anonymity, privacy, cellular attacks, and much more. Basic knowledge of a programming language, scripting language,
+    operating systems, computer networks, and computer security needed for you to do well in this course.
+    
+    
+    Prerequisites:
+    
+    COMP 347 OR COMP 348
 
 
 :doc:`comp391` 
@@ -550,10 +570,10 @@ Graduate Courses
 :doc:`comp439` 
     | Section 001 (5995) Credits: 3; Blended; Lecture
     | Instructor: George Thiruvathukal
-    | Place TBA (Lake Shore) Monday, Wednesday, Friday 10:25AM-11:15
+    | Mundelein Center:0607 (Lake Shore) Monday, Wednesday, Friday 10:25AM-11:15
 
     **Notes:**
-    This is a blended class.  More details will be forthcoming.
+    COMP 439-001 is a hybrid class.  It meets in person on Mondays and online on Wednesdays and Fridays.
 
 
 :doc:`comp460` 
@@ -579,11 +599,24 @@ Graduate Courses
 COMP 488 Topic : Adv Topics in Cybersecurity 
     | Section 001 (5996) Credits: 3; In person; Lecture
     | Instructor: David Eric Chan-Tin
-    | Corboy Law Center:0422 (Lake Shore) Tuesday, Thursday 11:30AM-12:45
+    | Cuneo Hall:103 (Lake Shore) Tuesday, Thursday 11:30AM-12:45
 
 
     **Notes:**
     Advanced Topics in Cybersecurity
+    
+    
+    
+    Description:
+    
+    Security and privacy are critical components of any system. This class will discuss the latest in computer security and privacy. Topics will include
+    distributed systems, voting security, anonymity, privacy, cellular attacks, and much more. Basic knowledge of a programming language, scripting language,
+    operating systems, computer networks, and computer security needed for you to do well in this course.
+    
+    
+    Prerequisites:
+    
+    COMP 347 OR COMP 348
 
 
 
@@ -614,7 +647,7 @@ COMP 488 Topic : Game Design and Development
 COMP 488 Topic : Physical Design & Fabrication 
     | Section 369 (5969) Credits: 3; In person; Lecture
     | Instructor: Jonathan Durston
-    | Crown Center:103 (Lake Shore) Monday 07:00PM-09:30
+    | Sullivan Center:253 (Lake Shore) Monday 07:00PM-09:30
     | Description similar to: :doc:`comp369`
 
     **Notes:**
@@ -632,7 +665,7 @@ COMP 488 Topic : Physical Design & Fabrication
 
 
 COMP 488 Topic : Computational Biology 
-    | Section 383 (5997) Credits: 3; In person; Lecture
+    | Section 383 (5997) Credits: 4; In person; Lecture
     | Instructor: Catherine Putonti
     | Crown Center:103 (Lake Shore) Tuesday 04:15PM-07:00
     | Description similar to: :doc:`comp383`

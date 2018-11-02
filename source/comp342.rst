@@ -1,4 +1,4 @@
-.. index:: comp342
+﻿.. index:: comp342
 
 COMP 342
 ========
