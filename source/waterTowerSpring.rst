@@ -1,7 +1,7 @@
 
 Spring 2019 Schedule ( Water Tower Campus )
 ==========================================================================
-Updated 10/15/2018 15:09:01
+Updated 11/01/2018 22:27:01
 
 The following courses will (tentatively) be held during the Spring 2019 semester.
 
@@ -109,7 +109,7 @@ Graduate Courses
 :doc:`comp400` 
     | Section 001 (5992) Credits: 3; In person; Lecture
     | Instructor: Channah Naiman
-    | Corboy Law Center:L09 (Water Tower) Wednesday 04:15PM-06:45
+    | Corboy Law Center:L08 (Water Tower) Wednesday 04:15PM-06:45
 
 
 
@@ -117,7 +117,7 @@ Graduate Courses
 :doc:`comp441` 
     | Section 001 (6007) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
-    | Maguire Hall:240 (Water Tower) Wednesday 07:00PM-09:30
+    | Corboy Law Center:0105 (Water Tower) Wednesday 07:00PM-09:30
 
 
 
@@ -125,7 +125,7 @@ Graduate Courses
 :doc:`comp448` 
     | Section 001 (5979) Credits: 3; In person; Lecture
     | Instructor: Corby Schmitz
-    | Corboy Law Center:0301 (Water Tower) Friday 05:45PM-08:15
+    | Corboy Law Center:0105 (Water Tower) Friday 05:45PM-08:15
 
 
 
@@ -133,7 +133,7 @@ Graduate Courses
 :doc:`comp473` 
     | Section 001 (5973) Credits: 3; In person; Lecture
     | Instructor: Berhane Zewdie
-    | Corboy Law Center:0602 (Water Tower) Monday 07:00PM-09:30
+    | Corboy Law Center:0305 (Water Tower) Monday 07:00PM-09:30
 
 
 
@@ -142,7 +142,7 @@ Graduate Courses
 COMP 488 Topic: Database Administration 
     | Section 305 (5975) Credits: 3; Blended; Lecture
     | Instructor: Sargon Hasso
-    | Corboy Law Center:0421 (Water Tower) Tuesday 04:15PM-06:45
+    | Corboy Law Center:0301 (Water Tower) Tuesday 04:15PM-06:45
     | Description similar to: :doc:`comp305`
 
     **Notes:**
@@ -169,7 +169,7 @@ COMP 488 Topic: Database Administration
 COMP 488 Topic: Software Quality & Testing 
     | Section 370 (5971) Credits: 3; In person; Lecture
     | Instructor: Conrad Weisert
-    | Corboy Law Center:0302 (Water Tower) Friday 02:45PM-05:15
+    | Corboy Law Center:0602 (Water Tower) Friday 02:45PM-05:15
     | Description similar to: :doc:`comp370`
 
     **Notes:**

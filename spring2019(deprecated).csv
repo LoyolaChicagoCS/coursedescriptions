@@ -1,6 +1,6 @@
 Report ID:  SR201,Loyola University Chicago,Page No.,1,of,31
-Schedule of Classes for Spring 2019,Run Date:,11/01/2018
-Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,22:27:01
+Schedule of Classes for Spring 2019,Run Date:,10/15/2018
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,15:09:01
 Regular Academic Session
 College of Arts and Sciences - Computer Science - Subject: Computer Science
 
@@ -77,14 +77,6 @@ Room Characteristics:,Lab - Computer(1)
 This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
 graduate advisor.
 ____________________________________________________________________________________________________________________________________________________________,
-COMP, 150,005,6639,Introduction to Computing,Lecture,3,,
-,,,,,,(In person)
-Bldg:,Crown Center,Room:,105,Days:,MWF,Time:,10:25AM-11:15,Instructor:,"Streeter,Jason E"
-Class Enrl Cap:,30,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-Attributes:,Quantitative Knowledge
-Class Equivalents:,ACCOMP 150/COMP 150
-Room Characteristics:,Lab - Computer(1)
-____________________________________________________________________________________________________________________________________________________________,
 COMP, 163,001,2983,Discrete Structures,Lecture,3,,
 ,,,,,,(In person)
 Bldg:,Cuneo Hall,Room:,311,Days:,TuTh,Time:,08:30AM-09:45,Instructor:,"Turkoglu,Duru"
@@ -101,14 +93,6 @@ area are encouraged to enroll in COMP 125 or COMP 150 instead.
 This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
 graduate advisor.
 ____________________________________________________________________________________________________________________________________________________________,
-,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,3,of,31
-Schedule of Classes for Spring 2019,Run Date:,11/01/2018
-Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,22:27:01
-Regular Academic Session
-College of Arts and Sciences - Computer Science - Subject: Computer Science
-
-____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 163,002,3501,Discrete Structures,Lecture,3,,
 ,,,,,,(In person)
 Bldg:,Dumbach Hall,Room:,004,Days:,MW,Time:,02:45PM-04:00,Instructor:,"Lopez,Nathan"
@@ -157,14 +141,6 @@ contact the Computer Science Department to request an enrollment override.
 This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
 graduate advisor.
 ____________________________________________________________________________________________________________________________________________________________,
-,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,4,of,31
-Schedule of Classes for Spring 2019,Run Date:,11/01/2018
-Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,22:27:01
-Regular Academic Session
-College of Arts and Sciences - Computer Science - Subject: Computer Science
-
-____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 170,002,2859,Intro Obj-Oriented Prog,Lecture,3,,
 ,,,,,,(In person)
 Bldg:,Cuneo Hall,Room:,311,Days:,TuTh,Time:,02:30PM-04:25,Instructor:,"Chan-Tin,David Eric"
@@ -229,16 +205,21 @@ Attributes:,Bioinformatics
 Class Equivalents:,COMP170/ISOM/INFS370
 Room Characteristics:,Electronic Classroom(1)
 ,,,,
-"This is an experimental hybrid version of Comp 170, tested very successfully twice before: It starts in the much easier language Python, which is also"
-"highly used by professionals. With the central concepts developed simply in that context, it then goes on to transition into Java and add a few concepts not"
-"in Python (mostly declarations with static typing), plus Java's more verbose syntax. The Java transition is important since Java is also an important"
-"language, preparing you for Comp 271 in Java. The course uses only free open-source online materials, starting with the Python text, where you can read,"
-"test, code, answer questions, and check yourself, all in a browser, with little learning curve. The course will be hybrid: after starting in the classroom"
-"for a while, many classes will be online in Zoom, and all students will need a notebook computer -- preferably your own. If you want the traditional Java"
-"Comp 170 course, register for a different section! This course is restricted to students in the College of Arts and Sciences. Students from other schools"
-specifically wishing to enroll in COMP 170 should contact the Computer Science Department to request an enrollment override. Students enrolled in COMP
-170-005 (Lecture) will be automatically enrolled in COMP 170-05L (Lab). This course is restricted to undergraduate students. Graduate students wishing to
-enroll in a section of this course should contact their departmental graduate advisor.
+This is a hybrid class.  More details will be forthcoming.
+
+
+
+This course is restricted to students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP 170 should
+contact the Computer Science Department to request an enrollment override.
+
+
+
+Students enrolled in COMP 170-005 (Lecture) will be automatically enrolled in COMP 170-05L (Lab).
+
+
+
+This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
+graduate advisor.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 170,03L,3179,Intro Obj-Oriented Prog,Laboratory,3,,
 ,,,,,,(In person)
@@ -288,16 +269,21 @@ Attributes:,Bioinformatics
 Class Equivalents:,COMP170/ISOM/INFS370
 Room Characteristics:,Electronic Classroom(1)
 ,,,,
-"This is an experimental hybrid version of Comp 170, tested very successfully twice before: It starts in the much easier language Python, which is also"
-"highly used by professionals. With the central concepts developed simply in that context, it then goes on to transition into Java and add a few concepts not"
-"in Python (mostly declarations with static typing), plus Java's more verbose syntax. The Java transition is important since Java is also an important"
-"language, preparing you for Comp 271 in Java. The course uses only free open-source online materials, starting with the Python text, where you can read,"
-"test, code, answer questions, and check yourself, all in a browser, with little learning curve. The course will be hybrid: after starting in the classroom"
-"for a while, many classes will be online in Zoom, and all students will need a notebook computer -- preferably your own. If you want the traditional Java"
-"Comp 170 course, register for a different section! This course is restricted to students in the College of Arts and Sciences. Students from other schools"
-specifically wishing to enroll in COMP 170 should contact the Computer Science Department to request an enrollment override. Students enrolled in COMP
-170-005 (Lecture) will be automatically enrolled in COMP 170-05L (Lab). This course is restricted to undergraduate students. Graduate students wishing to
-enroll in a section of this course should contact their departmental graduate advisor.
+This is a hybrid class.  More details will be forthcoming.
+
+
+
+This course is restricted to students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP 170 should
+contact the Computer Science Department to request an enrollment override.
+
+
+
+Students enrolled in COMP 170-005 (Lecture) will be automatically enrolled in COMP 170-05L (Lab).
+
+
+
+This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
+graduate advisor.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 180,001,5122,Computing & Data for Sciences,Lecture,3,,
 ,,,,,,(In person)
@@ -306,6 +292,14 @@ Class Enrl Cap:,39,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class M
 Attributes:,Neuroscience
 Room Characteristics:,Lab - Computer(1)
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,6,of,31
+Schedule of Classes for Spring 2019,Run Date:,10/15/2018
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,15:09:01
+Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 250,01W,2533,Intro Sci and Tech Comm,Lecture,3,,
 ,,,,,,(In person)
 Bldg:,Information Commons,Room:,111,Days:,MW,Time:,02:45PM-04:00,Instructor:,"Schwab,Roxanne"
@@ -332,24 +326,12 @@ This is a blended class.  More details will be forthcoming.
 This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
 graduate advisor.
 ____________________________________________________________________________________________________________________________________________________________,
-,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,7,of,31
-Schedule of Classes for Spring 2019,Run Date:,11/01/2018
-Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,22:27:01
-Regular Academic Session
-College of Arts and Sciences - Computer Science - Subject: Computer Science
-
-____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 264,002,5123,Intro to Computer Systems,Lecture,3,,
 ,,,,,,(Blended)
 Bldg:,Mundelein Center,Room:,0606,Days:,MWF,Time:,11:30AM-12:20,Instructor:,"Dordal,Peter L"
 Class Enrl Cap:,30,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Electronic Classroom(1)
 ,,,,
-This is a blended class.  More details will be forthcoming.
-
-
-
 This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
 graduate advisor.
 ____________________________________________________________________________________________________________________________________________________________,
@@ -363,6 +345,14 @@ Room Characteristics:,Electronic Classroom(1)
 This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
 graduate advisor.
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,7,of,31
+Schedule of Classes for Spring 2019,Run Date:,10/15/2018
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,15:09:01
+Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 271,002,2540,Data Structs and Apps,Lecture,3,,
 ,,,,,,(In person)
 Bldg:,Crown Center,Room:,105,Days:,MW,Time:,01:40PM-03:35,Instructor:,"Sekharan,Chandra N"
@@ -380,14 +370,6 @@ Class Enrl Cap:,30,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class M
 Room Characteristics:,Electronic Classroom(1)
 Combined Section ID:,1868(COMP 310-001/COMP 410-001), -,COMP 410(#5974)
 ____________________________________________________________________________________________________________________________________________________________,
-,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,8,of,31
-Schedule of Classes for Spring 2019,Run Date:,11/01/2018
-Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,22:27:01
-Regular Academic Session
-College of Arts and Sciences - Computer Science - Subject: Computer Science
-
-____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 313,001,3181,Intermed Obj-Orient Devel,Lecture,3,,
 ,,,,,,(In person)
 Bldg:,Cuneo Hall,Room:,311,Days:,MWF,Time:,09:20AM-10:10,Instructor:,"Yacobellis,Robert"
@@ -412,6 +394,14 @@ Room Characteristics:,Electronic Classroom(1)
 This class is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
 graduate advisor.
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,8,of,31
+Schedule of Classes for Spring 2019,Run Date:,10/15/2018
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,15:09:01
+Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 323,001,5982,Game Design & Development,Lecture,3,,
 ,,,,,,(In person)
 Bldg:,Cuneo Hall,Room:,311,Days:,F,Time:,02:45PM-05:15,Instructor:,"Hayward,Nicholas J"
@@ -426,30 +416,21 @@ Class Enrl Cap:,30,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class M
 Room Characteristics:,Electronic Classroom(1)
 Combined Section ID:,1640(COMP 324-001/COMP 424-001), -,COMP 424(#6006)
 ____________________________________________________________________________________________________________________________________________________________,
-,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,9,of,31
-Schedule of Classes for Spring 2019,Run Date:,11/01/2018
-Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,22:27:01
-Regular Academic Session
-College of Arts and Sciences - Computer Science - Subject: Computer Science
-
-____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 330,001,5983,Software Engineering,Lecture,3,,
 ,,,,,,(Hybrid)
 Bldg:,Cuneo Hall,Room:,311,Days:,MW,Time:,11:30AM-12:45,Instructor:,"Thiruvathukal,George"
 Class Enrl Cap:,35,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Electronic Classroom(1)
 ,,,,
-COMP 330-001 is a hybrid class.  It meets in person on Mondays and online on Wednesdays.
+"COMP 330-001 is a hybrid class.  It meets in person on Mondays and Wednesdays, and is always virtual on Fridays."
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 339,001,5984,Distributed Programming,Lecture,3,,
 ,,,,,,(Blended)
-Bldg:,Mundelein Center,Room:,0607,Days:,MWF,Time:,10:25AM-11:15,Instructor:,"Thiruvathukal,George"
+Bldg:,TBA,Room:,TBA,Days:,MWF,Time:,10:25AM-11:15,Instructor:,"Thiruvathukal,George"
 Class Enrl Cap:,30,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Electronic Classroom(1)
-Combined Section ID:,1526(COMP 339-001/COMP 439-001), -,COMP 439(#5995)
-,
-COMP 339-001 is a hybrid class.  It meets in person on Mondays and online on Wednesdays and Fridays.
+,,,,
+This is a blended class.  More details with be forthcoming.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 353,001,3182,Database Programming,Lecture,3,,
 ,,,,,,(In person)
@@ -458,10 +439,18 @@ Class Enrl Cap:,35,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class M
 Class Equivalents:,COMP353/BIOI353
 Room Characteristics:,Electronic Classroom(1)
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,9,of,31
+Schedule of Classes for Spring 2019,Run Date:,10/15/2018
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,15:09:01
+Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 363,001,3590,Desgn/Anlys Comp Algorthm,Lecture,3,,
 ,,,,,,(In person)
 Bldg:,Cuneo Hall,Room:,202,Days:,TuTh,Time:,10:00AM-11:15,Instructor:,"Turkoglu,Duru"
-Class Enrl Cap:,35,Class Enrl Tot:,1,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Class Enrl Cap:,35,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Attributes:,Bioinformatics
 Class Equivalents:,X-COMP363/BIOI363
 Room Characteristics:,Electronic Classroom(1)
@@ -471,10 +460,9 @@ graduate advisor.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 369,001,5968,Physical Design & Fabrication,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Sullivan Center,Room:,253,Days:,M,Time:,07:00PM-09:30,Instructor:,"Durston,Jonathan"
-Class Enrl Cap:,19,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Bldg:,TBA,Room:,TBA,Days:,M,Time:,07:00PM-09:30,Instructor:,"Durston,Jonathan"
+Class Enrl Cap:,24,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Lab - Computer(1)
-Combined Section ID:,1792(COMP 369-001 / COMP 488-369), -,COMP 488(#5969)
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 376,001,5863,Formal Lang & Automata,Lecture,3,,
 ,,,,,,(In person)
@@ -491,36 +479,26 @@ ________________________________________________________________________________
 COMP, 383,001,5989,Computational Biology,Lecture,4,,
 ,,,,,,(In person)
 Bldg:,Crown Center,Room:,103,Days:,Tu,Time:,04:15PM-07:00,Instructor:,"Putonti,Catherine"
-Class Enrl Cap:,30,Class Enrl Tot:,1,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Class Enrl Cap:,45,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Class Equivalents:,COMP383/BIOI383
 Room Characteristics:,Lab - Computer(1)
 Combined Section ID:,1870(COMP 383-001/COMP 488-383), -,COMP 488(#5997)
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,10,of,31
+Schedule of Classes for Spring 2019,Run Date:,10/15/2018
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,15:09:01
+Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 388,001,5988,Topics:,Lecture,3,Adv Topics in Cybersecurity,
 ,,,,,,(In person)
 Bldg:,Cuneo Hall,Room:,103,Days:,TuTh,Time:,11:30AM-12:45,Instructor:,"Chan-Tin,David Eric"
 Class Enrl Cap:,30,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Electronic Classroom(1)
-Combined Section ID:,1755(COMP 388-001/COMP 488-001), -,COMP 488(#5996)
-,
+,,,,
 Advanced Topics in Cybersecurity
-
-
-
-Description:
-
-Security and privacy are critical components of any system. This class will discuss the latest in computer security and privacy. Topics will include
-"distributed systems, voting security, anonymity, privacy, cellular attacks, and much more. Basic knowledge of a programming language, scripting language,"
-"operating systems, computer networks, and computer security needed for you to do well in this course.
-"
-
-
-Prerequisites:
-
-COMP 347 OR COMP 348
-
-
-
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 391,01E,2051,Internship in CS,Field Studies,1 - 6,,
 ,,,,,,(In person)
@@ -531,14 +509,6 @@ Room Characteristics:,Classroom Not Needed(1)
 ,,,,
 This class satisfies the Engaged Learning requirement in the Internship category.  Department Consent Required.
 ____________________________________________________________________________________________________________________________________________________________,
-,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,11,of,31
-Schedule of Classes for Spring 2019,Run Date:,11/01/2018
-Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,22:27:01
-Regular Academic Session
-College of Arts and Sciences - Computer Science - Subject: Computer Science
-
-____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 397,001,3524,Research Methods in CS,Seminar,1,,
 ,,,,,,(In person)
 Bldg:,Cuneo Hall,Room:,311,Days:,Th,Time:,04:45PM-06:00,Instructor:,"Albert,Mark"
@@ -563,6 +533,14 @@ Room Characteristics:,Classroom Not Needed(1)
 ,,,,
 This class satisfies the Engaged Learning requirement in the Undergraduate Research category.  Department Consent Required.
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,11,of,31
+Schedule of Classes for Spring 2019,Run Date:,10/15/2018
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,15:09:01
+Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 398,03E,2054,Independent Study,Independent Study,1 - 6,,
 ,,,,,,(In person)
 Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,Staff
@@ -581,14 +559,6 @@ Room Characteristics:,Classroom Not Needed(1)
 ,,,,
 This class satisfies the Engaged Learning requirement in the Undergraduate Research category.  Department Consent Required.
 ____________________________________________________________________________________________________________________________________________________________,
-,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,12,of,31
-Schedule of Classes for Spring 2019,Run Date:,11/01/2018
-Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,22:27:01
-Regular Academic Session
-College of Arts and Sciences - Computer Science - Subject: Computer Science
-
-____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 398,05E,2056,Independent Study,Independent Study,1 - 6,,
 ,,,,,,(In person)
 Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,Staff
@@ -607,6 +577,14 @@ Room Characteristics:,Classroom Not Needed(1)
 ,,,,
 This class satisfies the Engaged Learning requirement in the Undergraduate Research category.  Department Consent Required.
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,12,of,31
+Schedule of Classes for Spring 2019,Run Date:,10/15/2018
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,15:09:01
+Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 398,07E,2058,Independent Study,Independent Study,1 - 6,,
 ,,,,,,(In person)
 Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,Staff
@@ -625,14 +603,6 @@ Room Characteristics:,Classroom Not Needed(1)
 ,,,,
 This class satisfies the Engaged Learning requirement in the Undergraduate Research category.  Department Consent Required.
 ____________________________________________________________________________________________________________________________________________________________,
-,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,13,of,31
-Schedule of Classes for Spring 2019,Run Date:,11/01/2018
-Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,22:27:01
-Regular Academic Session
-College of Arts and Sciences - Computer Science - Subject: Computer Science
-
-____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 398,09E,2988,Independent Study,Independent Study,1 - 6,,
 ,,,,,,(In person)
 Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,Staff
@@ -651,6 +621,14 @@ Room Characteristics:,Classroom Not Needed(1)
 ,,,,
 This class satisfies the Engaged Learning requirement in the Undergraduate Research category.  Department Consent Required.
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,13,of,31
+Schedule of Classes for Spring 2019,Run Date:,10/15/2018
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,15:09:01
+Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 398,11E,3647,Independent Study,Independent Study,1 - 6,,
 ,,,,,,(In person)
 Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,Staff
@@ -669,14 +647,6 @@ Room Characteristics:,Classroom Not Needed(1)
 ,,,,
 This class satisfies the Engaged Learning requirement in the Undergraduate Research category.  Department Consent Required.
 ____________________________________________________________________________________________________________________________________________________________,
-,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,14,of,31
-Schedule of Classes for Spring 2019,Run Date:,11/01/2018
-Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,22:27:01
-Regular Academic Session
-College of Arts and Sciences - Computer Science - Subject: Computer Science
-
-____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 398,13E,3651,Independent Study,Independent Study,1 - 6,,
 ,,,,,,(In person)
 Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,Staff
@@ -695,6 +665,14 @@ Room Characteristics:,Classroom Not Needed(1)
 ,,,,
 This class satisfies the Engaged Learning requirement in the Undergraduate Research category.  Department Consent Required.
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,14,of,31
+Schedule of Classes for Spring 2019,Run Date:,10/15/2018
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,15:09:01
+Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 398,15E,4277,Independent Study,Independent Study,1 - 6,,
 ,,,,,,(In person)
 Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,Staff
@@ -713,14 +691,6 @@ Room Characteristics:,Classroom Not Needed(1)
 ,,,,
 This class satisfies the Engaged Learning requirement in the Undergraduate Research category.  Department Consent Required.
 ____________________________________________________________________________________________________________________________________________________________,
-,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,15,of,31
-Schedule of Classes for Spring 2019,Run Date:,11/01/2018
-Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,22:27:01
-Regular Academic Session
-College of Arts and Sciences - Computer Science - Subject: Computer Science
-
-____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 398,17E,5506,Independent Study,Independent Study,1 - 6,,
 ,,,,,,(In person)
 Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,Staff
@@ -739,55 +709,62 @@ Room Characteristics:,Classroom Not Needed(1)
 ,,,,
 This class satisfies the Engaged Learning requirement in the Undergraduate Research category.  Department Consent required.
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,15,of,31
+Schedule of Classes for Spring 2019,Run Date:,10/15/2018
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,15:09:01
+Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 410,001,5974,Operating Systems,Lecture,3,,
 ,,,,,,(In person)
 Bldg:,Cuneo Hall,Room:,311,Days:,Tu,Time:,07:00PM-09:30,Instructor:,"Kaylor,Sarah"
-Class Enrl Cap:,30,Class Enrl Tot:,6,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Class Enrl Cap:,30,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Electronic Classroom(1)
 Combined Section ID:,1868(COMP 310-001/COMP 410-001), -,COMP 310(#5963)
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 413,001,3183,Intermed Object-Orientd Devel,Lecture,3,,
 ,,,,,,(In person)
 Bldg:,Cuneo Hall,Room:,117,Days:,M,Time:,04:15PM-06:45,Instructor:,"Yacobellis,Robert"
-Class Enrl Cap:,30,Class Enrl Tot:,4,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Class Enrl Cap:,30,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Electronic Classroom(1)
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 417,001,3184,Social & Ethical Iss Comp,Lecture,3,,
 ,,,,,,(In person)
 Bldg:,Cuneo Hall,Room:,103,Days:,Th,Time:,04:15PM-06:45,Instructor:,"Montaner,Nicoletta Christina"
-Class Enrl Cap:,30,Class Enrl Tot:,6,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Class Enrl Cap:,30,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Electronic Classroom(1)
 ____________________________________________________________________________________________________________________________________________________________,
-,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,16,of,31
-Schedule of Classes for Spring 2019,Run Date:,11/01/2018
-Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,22:27:01
-Regular Academic Session
-College of Arts and Sciences - Computer Science - Subject: Computer Science
-
-____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 424,001,6006,Client-Side Web Design,Lecture,3,,
 ,,,,,,(In person)
 Bldg:,Cuneo Hall,Room:,311,Days:,M,Time:,04:15PM-06:45,Instructor:,"Hayward,Nicholas J"
-Class Enrl Cap:,30,Class Enrl Tot:,7,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Class Enrl Cap:,30,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Electronic Classroom(1)
 Combined Section ID:,1640(COMP 324-001/COMP 424-001), -,COMP 324(#6004)
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 439,001,5995,Distributed Systems,Lecture,3,,
 ,,,,,,(Blended)
-Bldg:,Mundelein Center,Room:,0607,Days:,MWF,Time:,10:25AM-11:15,Instructor:,"Thiruvathukal,George"
-Class Enrl Cap:,30,Class Enrl Tot:,4,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Bldg:,TBA,Room:,TBA,Days:,MWF,Time:,10:25AM-11:15,Instructor:,"Thiruvathukal,George"
+Class Enrl Cap:,30,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Electronic Classroom(1)
-Combined Section ID:,1526(COMP 339-001/COMP 439-001), -,COMP 339(#5984)
-,
-COMP 439-001 is a hybrid class.  It meets in person on Mondays and online on Wednesdays and Fridays.
+,,,,
+This is a blended class.  More details will be forthcoming.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 460,001,3526,Algorithms & Complexity,Lecture,3,,
 ,,,,,,(In person)
 Bldg:,Cuneo Hall,Room:,311,Days:,W,Time:,04:15PM-06:45,Instructor:,"Albert,Mark"
-Class Enrl Cap:,35,Class Enrl Tot:,9,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Class Enrl Cap:,35,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Electronic Classroom(1)
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,16,of,31
+Schedule of Classes for Spring 2019,Run Date:,10/15/2018
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,15:09:01
+Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 476,001,5862,Automata&Formal Languages,Lecture,3,,
 ,,,,,,(In person)
 Bldg:,Inst for Environment,Room:,111,Days:,TuTh,Time:,02:30PM-03:45,Instructor:,"Haught,Christine A"
@@ -802,34 +779,16 @@ Combined with COMP 376.
 ____________________________________________________________________________________________________________________________________________________________,,,
 COMP, 488,001,5996,Top:,Lecture,3,Adv Topics in Cybersecurity,
 ,,,,,,(In person)
-Bldg:,Cuneo Hall,Room:,103,Days:,TuTh,Time:,11:30AM-12:45,Instructor:,"Chan-Tin,David Eric"
-Class Enrl Cap:,30,Class Enrl Tot:,1,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Bldg:,Corboy Law Center,Room:,0422,Days:,TuTh,Time:,11:30AM-12:45,Instructor:,"Chan-Tin,David Eric"
+Class Enrl Cap:,30,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Electronic Classroom(1)
-Combined Section ID:,1755(COMP 388-001/COMP 488-001), -,COMP 388(#5988)
-,
+,,,,
 Advanced Topics in Cybersecurity
-
-
-
-Description:
-
-Security and privacy are critical components of any system. This class will discuss the latest in computer security and privacy. Topics will include
-"distributed systems, voting security, anonymity, privacy, cellular attacks, and much more. Basic knowledge of a programming language, scripting language,"
-"operating systems, computer networks, and computer security needed for you to do well in this course.
-"
-
-
-Prerequisites:
-
-COMP 347 OR COMP 348
-
-
-
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 488,323,6014,Top:,Lecture,3,Game Design and Development,
 ,,,,,,(In person)
 Bldg:,Cuneo Hall,Room:,311,Days:,F,Time:,02:45PM-05:15,Instructor:,"Hayward,Nicholas J"
-Class Enrl Cap:,30,Class Enrl Tot:,2,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Class Enrl Cap:,30,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Electronic Classroom(1)
 Combined Section ID:,1869(COMP 323-001/COMP 488-323), -,COMP 323(#5982)
 ,
@@ -851,11 +810,10 @@ a variety of game based environments.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 488,369,5969,Top:,Lecture,3,Physical Design & Fabrication,
 ,,,,,,(In person)
-Bldg:,Sullivan Center,Room:,253,Days:,M,Time:,07:00PM-09:30,Instructor:,"Durston,Jonathan"
-Class Enrl Cap:,19,Class Enrl Tot:,5,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Bldg:,Crown Center,Room:,103,Days:,M,Time:,07:00PM-09:30,Instructor:,"Durston,Jonathan"
+Class Enrl Cap:,45,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Lab - Computer(1)
-Combined Section ID:,1792(COMP 369-001 / COMP 488-369), -,COMP 369(#5968)
-,
+
 Physical Design & Fabrication
 
 
@@ -868,10 +826,10 @@ Physical Design & Fabrication
 "Outcomes: Students will be able to visualize ideas via sketching basic shapes, create 3D models using 3D modeling software, use a 3D Printer, and give"
 constructive feedback in peer review sessions.
 ____________________________________________________________________________________________________________________________________________________________,
-COMP, 488,383,5997,Top:,Lecture,4,Computational Biology,
+COMP, 488,383,5997,Top:,Lecture,3,Computational Biology,
 ,,,,,,(In person)
 Bldg:,Crown Center,Room:,103,Days:,Tu,Time:,04:15PM-07:00,Instructor:,"Putonti,Catherine"
-Class Enrl Cap:,30,Class Enrl Tot:,3,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Class Enrl Cap:,25,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Lab - Computer(1)
 Combined Section ID:,1870(COMP 383-001/COMP 488-383), -,COMP 383(#5989)
 ,
@@ -915,6 +873,14 @@ Room Characteristics:,Classroom Not Needed(1)
 ,,,,
 Department Consent Required.
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,18,of,31
+Schedule of Classes for Spring 2019,Run Date:,10/15/2018
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,15:09:01
+Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 490,004,2062,Independent Project,Supervision,1 - 6,,
 ,,,,,,(In person)
 Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,Staff
@@ -931,14 +897,6 @@ Room Characteristics:,Classroom Not Needed(1)
 ,,,,
 Department Consent Required.
 ____________________________________________________________________________________________________________________________________________________________,
-,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,19,of,31
-Schedule of Classes for Spring 2019,Run Date:,11/01/2018
-Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,22:27:01
-Regular Academic Session
-College of Arts and Sciences - Computer Science - Subject: Computer Science
-
-____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 490,006,2064,Independent Project,Supervision,1 - 6,,
 ,,,,,,(In person)
 Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,Staff
@@ -963,6 +921,14 @@ Room Characteristics:,Classroom Not Needed(1)
 ,,,,
 Department Consent Required.
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,19,of,31
+Schedule of Classes for Spring 2019,Run Date:,10/15/2018
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,15:09:01
+Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 490,009,2989,Independent Project,Supervision,1 - 6,,
 ,,,,,,(In person)
 Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,Staff
@@ -979,14 +945,6 @@ Room Characteristics:,Classroom Not Needed(1)
 ,,,,
 Department Consent Required.
 ____________________________________________________________________________________________________________________________________________________________,
-,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,20,of,31
-Schedule of Classes for Spring 2019,Run Date:,11/01/2018
-Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,22:27:01
-Regular Academic Session
-College of Arts and Sciences - Computer Science - Subject: Computer Science
-
-____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 490,011,3649,Independent Project,Supervision,1 - 6,,
 ,,,,,,(In person)
 Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,Staff
@@ -1011,6 +969,14 @@ Room Characteristics:,Classroom Not Needed(1)
 ,,,,
 Department Consent required.
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,20,of,31
+Schedule of Classes for Spring 2019,Run Date:,10/15/2018
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,15:09:01
+Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 490,014,3786,Independent Project,Supervision,1 - 6,,
 ,,,,,,(In person)
 Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,Staff
@@ -1027,14 +993,6 @@ Room Characteristics:,Classroom Not Needed(1)
 ,,,,
 Department Consent required.
 ____________________________________________________________________________________________________________________________________________________________,
-,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,21,of,31
-Schedule of Classes for Spring 2019,Run Date:,11/01/2018
-Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,22:27:01
-Regular Academic Session
-College of Arts and Sciences - Computer Science - Subject: Computer Science
-
-____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 490,016,6383,Independent Project,Supervision,1 - 6,,
 ,,,,,,(In person)
 Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:
@@ -1059,6 +1017,14 @@ Room Characteristics:,Classroom Not Needed(1)
 ,,,,
 This course involves an internship experience.  Department Consent Required.
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,21,of,31
+Schedule of Classes for Spring 2019,Run Date:,10/15/2018
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,15:09:01
+Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 605,001,2449,Master of Science Study,FTC-Supervision,0,,
 ,,,,,,(In person)
 Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,Staff
@@ -1069,8 +1035,8 @@ Department Consent Required.
 ____________________________________________________________________________________________________________________________________________________________,
 ,,,,,,,,
 Report ID:  SR201,Loyola University Chicago,Page No.,22,of,31
-Schedule of Classes for Spring 2019,Run Date:,11/01/2018
-Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,22:27:01
+Schedule of Classes for Spring 2019,Run Date:,10/15/2018
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,15:09:01
 Seven Week - First
 College of Arts and Sciences - Computer Science - Subject: Computer Science
 
@@ -1105,8 +1071,8 @@ February 25th.
 ____________________________________________________________________________________________________________________________________________________________,,,,,,,
 ,,,,,,,,
 Report ID:  SR201,Loyola University Chicago,Page No.,23,of,31
-Schedule of Classes for Spring 2019,Run Date:,11/01/2018
-Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,22:27:01
+Schedule of Classes for Spring 2019,Run Date:,10/15/2018
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,15:09:01
 Eight Week - Second
 College of Arts and Sciences - Computer Science - Subject: Computer Science
 
@@ -1136,8 +1102,8 @@ enroll you.
 ____________________________________________________________________________________________________________________________________________________________,
 ,,,,,,,,
 Report ID:  SR201,Loyola University Chicago,Page No.,24,of,31
-Schedule of Classes for Spring 2019,Run Date:,11/01/2018
-Campus: Online Campus   Location: Online Campus,Run Time:,22:27:01
+Schedule of Classes for Spring 2019,Run Date:,10/15/2018
+Campus: Online Campus   Location: Online Campus,Run Time:,15:09:01
 Regular Academic Session
 College of Arts and Sciences - Computer Science - Subject: Computer Science
 
@@ -1156,43 +1122,33 @@ COMP, 300,002,6002,Data Warehouse & Mining,Lecture,3,,
 Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Naiman,Channah"
 Class Enrl Cap:,25,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Classroom Not Needed(1)
-Combined Section ID:,1629(COMP 300-002/COMP 400-002), -,COMP 400(#5993)
-,
+,,,,
 "This class is a totally online, asynchronous course.  Exams may be synchronous and in person."
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 317,001,4086,SocialLegal&EthicIssuComp,Lecture,3,,
 ,,,,,,(Online)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Montaner,Nicoletta Christina"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Butcher,Matthew Paul"
 Class Enrl Cap:,35,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Attributes:,Sociolegal Studies
 Room Characteristics:,Classroom Not Needed(1)
 ,,,,
-This is an online class.  More details will be forthcoming.
+This is an online class.  All lectures will be pre-recorded.  Students are asked to attend smaller-group online interactive discussions at regular intervals
+"during the semester, with possible times chosen to fit different groups' schedules."
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 340,001,5966,Computer Forensics,Lecture,3,,
 ,,,,,,(Online)
 Bldg:,TBA,Room:,TBA,Days:,Tu,Time:,07:00PM-09:30,Instructor:,"Yarrish,Thomas"
 Class Enrl Cap:,35,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Classroom Not Needed(1)
-Combined Section ID:,1540(COMP 340-001/COMP488-340), -,COMP 488(#5967)
-
+,,,,
 "This is an online, synchronous class.  Synchronous meeting time:  Tuesdays, 7:00 pm - 9:30 pm.  Combined with COMP 488-340."
 ____________________________________________________________________________________________________________________________________________________________,
-,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,25,of,31
-Schedule of Classes for Spring 2019,Run Date:,11/01/2018
-Campus: Online Campus   Location: Online Campus,Run Time:,22:27:01
-Regular Academic Session
-College of Arts and Sciences - Computer Science - Subject: Computer Science
-
-____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 348,002,5978,Network Security,Lecture,3,,
 ,,,,,,(Online)
 Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Schmitz,Corby"
 Class Enrl Cap:,25,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Classroom Not Needed(1)
-Combined Section ID:,1523(COMP 348-002/COMP 448-002), -,COMP 448(#5980)
-,
+,,,,
 "This is an online class.  The classroom session will be broadcast live on Friday evenings via AdobeConnect, allowing online student interaction.  Sessions"
 will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.  Combined with COMP 448-002.
 ____________________________________________________________________________________________________________________________________________________________,,
@@ -1228,26 +1184,24 @@ ________________________________________________________________________________
 COMP, 400,002,5993,Data Mining,Lecture,3,,
 ,,,,,,(Online)
 Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Naiman,Channah"
-Class Enrl Cap:,25,Class Enrl Tot:,1,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Class Enrl Cap:,25,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Classroom Not Needed(1)
-Combined Section ID:,1629(COMP 300-002/COMP 400-002), -,COMP 300(#6002)
-,
+,,,,
 "This class is a totally online, asynchronous course.  Exams may be synchronous and in person."
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 448,002,5980,Network Security,Lecture,3,,
 ,,,,,,(Online)
 Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Schmitz,Corby"
-Class Enrl Cap:,25,Class Enrl Tot:,1,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Class Enrl Cap:,25,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Classroom Not Needed(1)
-Combined Section ID:,1523(COMP 348-002/COMP 448-002), -,COMP 348(#5978)
-,
+,,,,
 "This is an online class.  The classroom session will be broadcast live on Friday evenings via AdobeConnect, allowing online student interaction.  Sessions"
 will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.  Combined with COMP 348-002.
 ____________________________________________________________________________________________________________________________________________________________,,
 COMP, 474,001,3185,Software Engineering,Lecture,3,,
 ,,,,,,(Online)
 Bldg:,TBA,Room:,TBA,Days:,W,Time:,07:00PM-09:30,Instructor:,"Stone,Christopher"
-Class Enrl Cap:,35,Class Enrl Tot:,8,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Class Enrl Cap:,35,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Classroom Not Needed(1)
 ,,,,
 "This is an online class.  Synchronous meeting time:  Wednesday, 7:00 pm - 9:30 pm."
@@ -1255,10 +1209,9 @@ ________________________________________________________________________________
 COMP, 488,340,5967,Top:,Lecture,3,Comp Forensics Investigations,
 ,,,,,,(Online)
 Bldg:,TBA,Room:,TBA,Days:,Tu,Time:,07:00PM-09:30,Instructor:,"Yarrish,Thomas"
-Class Enrl Cap:,35,Class Enrl Tot:,1,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Class Enrl Cap:,35,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Classroom Not Needed(1)
-Combined Section ID:,1540(COMP 340-001/COMP488-340), -,COMP 340(#5966)
-
+,,,,
 "Computer Forensics.  This is an online, synchronous class.  Synchronous meeting time:  Tuesdays, 7:00 pm - 9:30 pm.  Combined with COMP 340-001.
 "
 
@@ -1283,8 +1236,8 @@ This is an online class.  This course involves an internship experience.  Depart
 ____________________________________________________________________________________________________________________________________________________________,
 ,,,,,,,,
 Report ID:  SR201,Loyola University Chicago,Page No.,27,of,31
-Schedule of Classes for Spring 2019,Run Date:,11/01/2018
-Campus: Online Campus   Location: Online Campus,Run Time:,22:27:01
+Schedule of Classes for Spring 2019,Run Date:,10/15/2018
+Campus: Online Campus   Location: Online Campus,Run Time:,15:09:01
 Eight Week - First
 College of Arts and Sciences - Computer Science - Subject: Computer Science
 
@@ -1301,19 +1254,10 @@ COMP 170-700N is reserved for students in the School of Continuing & Professiona
 http://www.luc.edu/adult-education/admission/nonscps-enrollment/
 COMP 170-700N is an online section. Required synchronous sessions will be held Tuesdays 6-9PM CST
 ____________________________________________________________________________________________________________________________________________________________,
-COMP, 271,701N,6561,Data Structs and Apps,Lecture,3,,
-,,,,,,(Online)
-Bldg:,TBA,Room:,TBA,Days:,W,Time:,06:00PM-09:00,Instructor:,"Post,Elliott Lawrence"
-Class Enrl Cap:,25,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-Attributes:,Bioinformatics
-Room Characteristics:,Classroom Not Needed(1)
-,,,,
-Restricted to students in the School of Professional Studies.
-____________________________________________________________________________________________________________________________________________________________,
 ,,,,,,,,
 Report ID:  SR201,Loyola University Chicago,Page No.,28,of,31
-Schedule of Classes for Spring 2019,Run Date:,11/01/2018
-Campus: Online Campus   Location: Online Campus,Run Time:,22:27:01
+Schedule of Classes for Spring 2019,Run Date:,10/15/2018
+Campus: Online Campus   Location: Online Campus,Run Time:,15:09:01
 Eight Week - Second
 College of Arts and Sciences - Computer Science - Subject: Computer Science
 
@@ -1342,8 +1286,8 @@ http://www.luc.edu/adult-education/admission/nonscps-enrollment/
 ____________________________________________________________________________________________________________________________________________________________,
 ,,,,,,,,
 Report ID:  SR201,Loyola University Chicago,Page No.,29,of,31
-Schedule of Classes for Spring 2019,Run Date:,11/01/2018
-Campus: Water Tower Campus   Location: Water Tower Campus,Run Time:,22:27:01
+Schedule of Classes for Spring 2019,Run Date:,10/15/2018
+Campus: Water Tower Campus   Location: Water Tower Campus,Run Time:,15:09:01
 Regular Academic Session
 College of Arts and Sciences - Computer Science - Subject: Computer Science
 
@@ -1353,15 +1297,13 @@ COMP, 300,001,6000,Data Warehouse & Mining,Lecture,3,,
 Bldg:,Corboy Law Center,Room:,L08,Days:,W,Time:,04:15PM-06:45,Instructor:,"Naiman,Channah"
 Class Enrl Cap:,30,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Electronic Classroom(1)
-Combined Section ID:,1528(COMP 300-001/COMP 400-001), -,COMP 400(#5992)
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 305,001,5961,Database Administration,Lecture,3,,
 ,,,,,,(Blended)
 Bldg:,Corboy Law Center,Room:,0301,Days:,Tu,Time:,04:15PM-06:45,Instructor:,"Hasso,Sargon"
 Class Enrl Cap:,30,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Electronic Classroom(1)
-Combined Section ID:,1518(COMP 305-001/COMP 488-305), -,COMP 488(#5975)
-,
+,,,,
 This is a blended class.  More details will be forthcoming.  Combined with COMP 488-305.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 341,001,6005,Human-Computer Interaction,Lecture,3,,
@@ -1369,80 +1311,63 @@ COMP, 341,001,6005,Human-Computer Interaction,Lecture,3,,
 Bldg:,Corboy Law Center,Room:,0105,Days:,W,Time:,07:00PM-09:30,Instructor:,"Hayward,Nicholas J"
 Class Enrl Cap:,30,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Electronic Classroom(1)
-Combined Section ID:,1632(COMP 341-001/COMP 441-001), -,COMP 441(#6007)
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 348,001,5977,Network Security,Lecture,3,,
 ,,,,,,(In person)
 Bldg:,Corboy Law Center,Room:,0105,Days:,F,Time:,05:45PM-08:15,Instructor:,"Schmitz,Corby"
 Class Enrl Cap:,30,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Electronic Classroom(1)
-Combined Section ID:,1522(COMP 348-001/COMP 448-001), -,COMP 448(#5979)
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 370,001,5970,Software Quality & Testing,Lecture,3,,
 ,,,,,,(In person)
 Bldg:,Corboy Law Center,Room:,0602,Days:,F,Time:,02:45PM-05:15,Instructor:,"Weisert,Conrad"
 Class Enrl Cap:,30,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Electronic Classroom(1)
-Combined Section ID:,1882(COMP 370-001/COMP 488-370), -,COMP 488(#5971)
 ____________________________________________________________________________________________________________________________________________________________,
-,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,30,of,31
-Schedule of Classes for Spring 2019,Run Date:,11/01/2018
-Campus: Water Tower Campus   Location: Water Tower Campus,Run Time:,22:27:01
-Regular Academic Session
-College of Arts and Sciences - Computer Science - Subject: Computer Science
-
-____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 373,001,5972,ObjectsFramewrks&Patterns,Lecture,3,,
 ,,,,,,(In person)
 Bldg:,Corboy Law Center,Room:,0305,Days:,M,Time:,07:00PM-09:30,Instructor:,"Zewdie,Berhane"
 Class Enrl Cap:,35,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Electronic Classroom(1)
-Combined Section ID:,1527(COMP 373-001/COMP473-001), -,COMP 473(#5973)
-____________________________________________________________________________________________________________________________________________________________,
-COMP, 400,001,5992,Data Mining,Lecture,3,,
-,,,,,,(In person)
-Bldg:,Corboy Law Center,Room:,L08,Days:,W,Time:,04:15PM-06:45,Instructor:,"Naiman,Channah"
-Class Enrl Cap:,30,Class Enrl Tot:,7,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-Room Characteristics:,Electronic Classroom(1)
-Combined Section ID:,1528(COMP 300-001/COMP 400-001), -,COMP 300(#6000)
-____________________________________________________________________________________________________________________________________________________________,
-COMP, 441,001,6007,Human-Computer Interaction,Lecture,3,,
-,,,,,,(In person)
-Bldg:,Corboy Law Center,Room:,0105,Days:,W,Time:,07:00PM-09:30,Instructor:,"Hayward,Nicholas J"
-Class Enrl Cap:,30,Class Enrl Tot:,5,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-Room Characteristics:,Electronic Classroom(1)
-Combined Section ID:,1632(COMP 341-001/COMP 441-001), -,COMP 341(#6005)
-____________________________________________________________________________________________________________________________________________________________,
-COMP, 448,001,5979,Network Security,Lecture,3,,
-,,,,,,(In person)
-Bldg:,Corboy Law Center,Room:,0105,Days:,F,Time:,05:45PM-08:15,Instructor:,"Schmitz,Corby"
-Class Enrl Cap:,30,Class Enrl Tot:,1,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-Room Characteristics:,Electronic Classroom(1)
-Combined Section ID:,1522(COMP 348-001/COMP 448-001), -,COMP 348(#5977)
-____________________________________________________________________________________________________________________________________________________________,
-COMP, 473,001,5973,Adv. Object Oriented Prog.,Lecture,3,,
-,,,,,,(In person)
-Bldg:,Corboy Law Center,Room:,0305,Days:,M,Time:,07:00PM-09:30,Instructor:,"Zewdie,Berhane"
-Class Enrl Cap:,35,Class Enrl Tot:,3,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-Room Characteristics:,Electronic Classroom(1)
-Combined Section ID:,1527(COMP 373-001/COMP473-001), -,COMP 373(#5972)
 ____________________________________________________________________________________________________________________________________________________________,
 ,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,31,of,31
-Schedule of Classes for Spring 2019,Run Date:,11/01/2018
-Campus: Water Tower Campus   Location: Water Tower Campus,Run Time:,22:27:01
+Report ID:  SR201,Loyola University Chicago,Page No.,30,of,31
+Schedule of Classes for Spring 2019,Run Date:,10/15/2018
+Campus: Water Tower Campus   Location: Water Tower Campus,Run Time:,15:09:01
 Regular Academic Session
 College of Arts and Sciences - Computer Science - Subject: Computer Science
 
 ____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
+COMP, 400,001,5992,Data Mining,Lecture,3,,
+,,,,,,(In person)
+Bldg:,Corboy Law Center,Room:,L09,Days:,W,Time:,04:15PM-06:45,Instructor:,"Naiman,Channah"
+Class Enrl Cap:,30,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Electronic Classroom(1)
+____________________________________________________________________________________________________________________________________________________________,
+COMP, 441,001,6007,Human-Computer Interaction,Lecture,3,,
+,,,,,,(In person)
+Bldg:,Maguire Hall,Room:,240,Days:,W,Time:,07:00PM-09:30,Instructor:,"Hayward,Nicholas J"
+Class Enrl Cap:,30,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Electronic Classroom(1)
+____________________________________________________________________________________________________________________________________________________________,
+COMP, 448,001,5979,Network Security,Lecture,3,,
+,,,,,,(In person)
+Bldg:,Corboy Law Center,Room:,0301,Days:,F,Time:,05:45PM-08:15,Instructor:,"Schmitz,Corby"
+Class Enrl Cap:,30,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Electronic Classroom(1)
+____________________________________________________________________________________________________________________________________________________________,
+COMP, 473,001,5973,Adv. Object Oriented Prog.,Lecture,3,,
+,,,,,,(In person)
+Bldg:,Corboy Law Center,Room:,0602,Days:,M,Time:,07:00PM-09:30,Instructor:,"Zewdie,Berhane"
+Class Enrl Cap:,35,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Electronic Classroom(1)
+____________________________________________________________________________________________________________________________________________________________,
 COMP, 488,305,5975,Top:,Lecture,3,Database Administration,
 ,,,,,,(Blended)
-Bldg:,Corboy Law Center,Room:,0301,Days:,Tu,Time:,04:15PM-06:45,Instructor:,"Hasso,Sargon"
-Class Enrl Cap:,30,Class Enrl Tot:,2,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Bldg:,Corboy Law Center,Room:,0421,Days:,Tu,Time:,04:15PM-06:45,Instructor:,"Hasso,Sargon"
+Class Enrl Cap:,30,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Electronic Classroom(1)
-Combined Section ID:,1518(COMP 305-001/COMP 488-305), -,COMP 305(#5961)
-,
+,,,,
 Database Administration
 
 
@@ -1462,13 +1387,20 @@ Prerequisites:  Comp 251 or Comp 271
 
 Outcome:  Students will be able to use theory and pragmatic approaches to define and implement realistic solutions for large database administration
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,31,of,31
+Schedule of Classes for Spring 2019,Run Date:,10/15/2018
+Campus: Water Tower Campus   Location: Water Tower Campus,Run Time:,15:09:01
+Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 488,370,5971,Top:,Lecture,3,Software Quality & Testing,
 ,,,,,,(In person)
-Bldg:,Corboy Law Center,Room:,0602,Days:,F,Time:,02:45PM-05:15,Instructor:,"Weisert,Conrad"
+Bldg:,Corboy Law Center,Room:,0302,Days:,F,Time:,02:45PM-05:15,Instructor:,"Weisert,Conrad"
 Class Enrl Cap:,30,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Electronic Classroom(1)
-Combined Section ID:,1882(COMP 370-001/COMP 488-370), -,COMP 370(#5970)
-,
+,,,,
 Software Quality & Testing
 
 
@@ -1487,7 +1419,7 @@ ________________________________________________________________________________
 COMP, 488,472,5965,Top:,Lecture,3,Organizational Change & Dev.,
 ,,,,,,(In person)
 Bldg:,Maguire Hall,Room:,330,Days:,Tu,Time:,07:00PM-09:30,Instructor:,"Bevente,Guy"
-Class Enrl Cap:,35,Class Enrl Tot:,2,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Class Enrl Cap:,35,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Room Characteristics:,Electronic Classroom(1)
 ,,,,
 Organizational Change & Development
