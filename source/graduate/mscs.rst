@@ -1,5 +1,5 @@
 .. index::
-    Graduate Degree
+    Graduate Track
     M.S. in Computer Science
 
 

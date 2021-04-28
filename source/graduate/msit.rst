@@ -1,5 +1,5 @@
 .. index::
-    Graduate Degree
+    Graduate Track
     M.S. in Information Technology
 
 M.S. in Information Technology

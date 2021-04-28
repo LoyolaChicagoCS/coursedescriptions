@@ -1,23 +1,24 @@
-.. header:: Potential M.S. Field: M.S. Field
-.. footer:: Potential M.S. Field: M.S. Field
+.. See https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html for information about RST formatting.
+
+.. header:: M.S. Track
+.. footer:: M.S. Track
 
 .. index::
     .. insert relevant index tags
 
 ##############
-Graduate Field
+Graduate Track
 ##############
 
-.. contents:: Table of Contents
-
-******************
-Field Information
-******************
+*****************
+Track Information
+*****************
 
 .. sidebar:: General Information
 
-    **Applicable Graduate Track(s)**
-    *List what tracks can land a student in this field.*
+    **Applicable Graduate Degree(s)**
+
+    * List what tracks can land a student in this field.
 
 Description
 ===========
@@ -26,5 +27,13 @@ Description
 
 Courses to Consider
 ===================
+
+Required Courses
+----------------
+
+*List of courses to consider as well as links to their own course pages.*
+
+Recommended Courses
+-------------------
 
 *List of courses to consider as well as links to their own course pages.*

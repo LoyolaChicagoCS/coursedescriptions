@@ -48,6 +48,8 @@ The content of the course varies. Recent topics have included
 * Robotics Software Development
 * Data Visualization
 * Database Administration
+* Dev Ops
+* Game Design and Development
 
 Outcome
 =======

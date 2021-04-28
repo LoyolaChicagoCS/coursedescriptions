@@ -1,3 +1,5 @@
+.. See https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html for information about RST formatting.
+
 .. header:: Index Name
 .. footer:: Index Name
 

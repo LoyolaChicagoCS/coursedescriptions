@@ -49,7 +49,7 @@ The academic prerequisites to be considered for admission to the BS/MS programs 
 Application Information
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Current Loyola students who have met the above academic prerequisites are encouraged to apply before registration opens for your senior year, though the program is still of practical help to a student who applies before the final undergrad semester in which s/he is taking COMP courses. Students who have an interest in the program are encouraged to consult with the Graduate Program Director for Computer Science, Dr. Andrew Harrington, in the semester before their application. The application will be evaluated upon completion of the following:
+Current Loyola students who have met the above academic prerequisites are encouraged to apply before registration opens for your senior year, though the program is still of practical help to a student who applies before the final undergrad semester in which s/he is taking COMP courses. Students who have an interest in the program are encouraged to consult with the Graduate Program Director for Computer Science in the semester before their application. The application will be evaluated upon completion of the following:
 
 -   `The Graduate Application Form <https://gpem.luc.edu/apply/>`_; applicants are to select the BS/MS option.  Be careful of the misleading entry named "starting semester": The *starting semester for the program should be the first semester when the* *student will be in pure*  **graduate** *status* (after expected completion of the BS).  This is *not* generally the semester coming right after the student has filled out the application.  This is *after* all double-counted courses are completed.
 -   A one-page personal statement of purpose.

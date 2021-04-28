@@ -1,32 +1,48 @@
+.. header:: Database Administration
+.. footer:: Database Administration
+
 .. index::
-    Graduate Degree
+    Graduate Track
     Database Administration
     MS Information Technology
 
+#######################
 Database Administration
-================================
+#######################
 
-(MS Information Technology)
+*****************
+Track Information
+*****************
+
+.. sidebar:: General Information
+
+    **Applicable Graduate Degree(s)**
+
+    * MS Information Technology
+
+Description
+===========
 
 A database administrator (DBA) is in charge of the database installation, development, storage, security, and backup.  DBAs generally become experts in the specific Database Management Systems used to implement the databases in the enterprise.  For this reason, professional certifications are often desirable, beyond course preparation.  DBAs often work in tandem with network systems professionals and with information systems users; therefore some coursework in these areas is also preferred, to understand the system architecture and the users’ information requirements.
 
-Consider these courses:
+Courses to Consider
+===================
 
-.. tosphinx
-   all courses should link to the sphinx pages with the text being course name and number.
+Required Courses
+----------------
 
-    * COMP 453  Database Programming
-    * COMP 488-305  Database Administration
-    * COMP 420  Software Systems Analysis
-    * COMP 451  Network Management
-    * COMP 477  Project Management
-    * required Comp 417 and four further electives
+* :doc:`../courses/comp163`
+* :doc:`../courses/comp170`
+* :doc:`../courses/comp264`
+* :doc:`../courses/comp271`
+* :doc:`../courses/comp417`
+* Four further electives
 
-* :doc:`../courses/comp453`
-* graduate version of :doc:`../courses/comp305`
+Recommended Courses
+-------------------
+
 * :doc:`../courses/comp420`
 * :doc:`../courses/comp451`
+* :doc:`../courses/comp453`
 * :doc:`../courses/comp477`
-* required :doc:`../courses/comp417` and four further electives
-
-Back to :doc:`careerpaths`
+* :doc:`Database Administration Special Topic <../courses/comp488>`

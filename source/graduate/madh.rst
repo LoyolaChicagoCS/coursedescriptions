@@ -1,9 +1,13 @@
+.. header:: M.A. in Digital Humanities
+.. footer:: M.A. in Digital Humanities
+
 .. index::
-    Graduate Degree
+    Graduate Track
     M.A. in Digital Humanities
 
+##########################
 M.A. in Digital Humanities
-===========================
+##########################
 
 The Computer Science department is a partner in the MA in Digital Humanities program. While not a department-specific the program, we encourage students with interdisciplinary interests at the intersection of culture and technology to consider this degree, which allows one to elect courses from the CS department.
 

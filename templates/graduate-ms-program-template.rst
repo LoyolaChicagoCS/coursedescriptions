@@ -8,8 +8,6 @@
 Graduate Program
 ################
 
-.. contents:: Table of Contents
-
 *******************
 Program Information
 *******************

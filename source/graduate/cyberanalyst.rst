@@ -1,34 +1,51 @@
+.. header:: Cyber Security Analyst / Network Security Administrator
+.. footer:: Cyber Security Analyst / Network Security Administrator
+
 .. index::
-    Cyber Security Analyst/Network Security Administrator
+    Cyber Security Analyst / Network Security Administrator
+    Cyber Security Analyst
+    Network Security Administrator
     MS in Information Technology
-    Graduate Degree
+    Graduate Track
 
-Cyber Security Analyst/Network Security Administrator
-======================================================
+#######################################################
+Cyber Security Analyst / Network Security Administrator
+#######################################################
 
-(MS in Information Technology)
+*****************
+Track Information
+*****************
+
+.. sidebar:: General Information
+
+    **Applicable Graduate Degree(s)**
+
+    * MS in Information Technology
+
+Description
+===========
 
 This is a common operational security role. Individuals would provide security rules, audit logs, and events, undertake correlation investigations, etc.
 
-Consider these courses:
+Courses to Consider
+===================
 
-.. tosphinx
-   all courses should link to the sphinx pages with the text being course name and number.
+Required Courses
+----------------
 
-    * Networks: Comp 443
-    * Intrusion Detection: Comp 447
-    * Network Security: Comp 448
-    * Wireless Networks and Security: Comp 449
-    * Network Management: Comp 451
-    * Database Administration:  Comp 488-305
-    * Plus required Comp 417 and three further electives
+* :doc:`../courses/comp163`
+* :doc:`../courses/comp170`
+* :doc:`../courses/comp264`
+* :doc:`../courses/comp271`
+* :doc:`../courses/comp417`
+* Three further electives
+
+Recommended Courses
+-------------------
 
 * :doc:`../courses/comp443`
 * :doc:`../courses/comp447`
 * :doc:`../courses/comp448`
 * :doc:`../courses/comp449`
 * :doc:`../courses/comp451`
-* graduate version of :doc:`../courses/comp305`
-* Plus required :doc:`../courses/comp417` and three further electives
-
-Back to :doc:`careerpaths`
+* :doc:`Database Administration Special Topic <../courses/comp488>`

@@ -1,30 +1,49 @@
+.. header:: Data Analyst
+.. footer:: Data Analyst
+
 .. index::
     MS in Computer Science
     MS in Information Technology
-    Graduate Degree
+    Graduate Track
     Data Analyst
 
+############
 Data Analyst
-======================================================
+############
 
-(MS in Computer Science or Information Technology)
+*****************
+Track Information
+*****************
+
+.. sidebar:: General Information
+
+    **Applicable Graduate Degree(s)**
+
+    * MS in Computer Science
+    * MS in Information Technology
+
+
+Description
+===========
 
 .. dosplit:
    Hope to split into separate IT and CS variants
 
 Data Analysts' work provides insights on structured information collected by companies. They have the ability to use analytics tools to make these insights. They can also leverage their experience with programming to work with moderately unstructured data sets. They have sufficient experience with applied statistics to make valid statistical inferences from most structured data sets.
 
-Consider these courses:
+Courses to Consider
+===================
 
-.. tosphinx
-   all courses should link to the sphinx pages with the text being course name and number.
+Required Courses
+----------------
 
-    * COMP 400: Data Mining
-    * COMP 453: Database Programming
-    * Other courses to meet degree requirements
+* :doc:`../courses/comp163`
+* :doc:`../courses/comp170`
+* :doc:`../courses/comp264`
+* :doc:`../courses/comp271`
+
+Recommended Courses
+-------------------
 
 * :doc:`../courses/comp400`
 * :doc:`../courses/comp453`
-* Other courses to meet degree requirememnts
-
-Back to :doc:`careerpaths`
